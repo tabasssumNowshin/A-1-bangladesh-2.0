@@ -1,0 +1,452 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.font{
+    font-family: "Fira Sans", serif;
+}
+body{
+    background-color: #F5F5F5;
+}
+
+/* navigation style */
+.button-sign{
+    color:#006A50;
+    background-color: #f5f5f5;
+    border-radius:  5px;
+    border:1px solid #006A50;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: 600px;
+    margin-bottom: 24px;
+    margin-top: 24px;
+    margin-right: 160px;
+}
+.button-sign:hover{
+    background-color: sandybrown;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.nav-tittle{
+    margin-top: 31px;
+    padding: 24px 160px;
+    
+}
+h3{
+    font-size: 32px;
+    
+}
+/* banner style */
+.banner{
+    display: flex; 
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    gap: 64px;
+    border-radius: 24px;
+    margin: 20px 160px 80px 160px;
+    
+}
+.buttonstyle{
+    padding: 17px 34px;
+    background-color: #006A50;
+    font-size: 18px;
+    font-weight: 600px;
+    color:#FFFFFF;
+    border-radius: 8px;
+    border: none;
+}
+.buttonstyle:hover{
+    background-color: coral;
+}
+.banner-style{
+    padding-top: 146px;
+    padding: 146px;
+    padding-left: 59.99px;
+
+}
+#text{
+    font-size: 56px;
+    margin-top: 0px;
+
+}
+#bangladesh{
+    font-size: 24px;
+    font-weight: 500;
+    color: #0E0E0E;
+    
+}
+.banner-profile{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 59.99px;
+}
+
+/* Pillar style*/
+.header{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 32px;
+    margin-left: 160px;
+   
+}
+.tag{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0E0E0E;
+
+}
+.line{
+    font-size: 16px;
+}
+.pillar-sector{
+    border-radius: 16px;
+    padding: 24px;
+    border: 3px solid #F1F1F3;
+    margin-right: 24px ;
+    background-color: #FFFFFF;
+
+}
+.pillar{
+    display: flex;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-bottom: 80px;
+}
+/* vison styles */
+.vision{
+    display: flex;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-bottom: 32px;
+
+}
+.vision-sec{
+    background-color: #F1F1F3;
+}
+.header-vision{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 24px;
+    margin-left: 160px;
+   
+}
+.lines{
+    margin-left: 160px;
+    font-size: 16px;
+    margin-bottom: 24px;
+    margin-right: 160px;
+}
+.header-size{
+    font-size: 20px;
+    font-weight: 600px;
+}
+.digital-transformation{
+    margin-top: 32px;
+    border-radius: 16px;
+    padding: 32px;
+    margin-right: 24px ;
+    background-color: rgba(84, 144, 245, 0.2);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    
+}
+.btn1{
+    background-color: #5490F5;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    border: none;
+}
+.btn1:hover{
+    background-color: sandybrown;
+}
+.green-energy{
+    margin-top: 32px;
+    border-radius: 16px;
+    padding: 32px;
+    margin-right: 24px ;
+    background-color: #C6E4D6;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.btn2{
+    background-color: #09A15C;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    border: none;
+}
+.btn2:hover{
+    background-color: sandybrown;
+}
+.modern-infrastructure{
+    margin-top: 32px;
+    border-radius: 16px;
+    padding: 32px;
+    margin-right: 24px ;
+    background-color: #F7EBCF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25)
+    
+}
+.btn3{
+    background-color: #FFC239;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    border: none;
+}
+.btn3:hover{
+    background-color: sandybrown;
+}
+
+
+/* quote */
+.quote{ 
+    padding: 48px 24px 12px 24px;   
+}
+.quote-full{
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-bottom: 80px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    border: 3px solid #F1F1F3;
+}
+.yunus{
+    padding-left: 24px;
+    padding-top: 12px;
+    font-size: 20px;
+    font-weight: 600px;
+}
+.identity{
+    margin-top: 0px;
+    padding-left: 24px;
+    padding-bottom: 48px;
+    font-size: 16px;
+    
+}
+.quote{
+    position: relative;
+}
+.quote-line{
+    position: absolute;
+    font-size: 16px;
+    top:48px;
+}
+/* recent news */
+.recent-news{
+    display: flex;
+    align-items: center;
+    background-color: #FFFFFF;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 24px;
+    padding: 24px;
+    border-radius: 24px;
+    border: 3px solid #F1F1F3;
+}
+.recent-content{
+    padding: 56px 32px;
+}
+.recent-tittle{
+    font-size: 30px;
+    margin-bottom: 24px;
+    font-weight: bold;
+}
+.recent-meta{
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+.recent-description{
+    font-size: 16px;
+    margin-bottom: 24px;
+
+}
+.image{
+    border-radius: 24px;
+}
+.recent-buttonstyle{
+    padding: 13px 34px;
+    background-color: #006A50;
+    font-size: 18px;
+    font-weight: 600px;
+    color:#FFFFFF;
+    border-radius: 8px;
+    border: none;
+
+}
+.recent-buttonstyle:hover{
+    background-color: coral;
+}
+/* donate */
+
+.donate{
+    margin:80px 160px; 
+   
+}
+.donate-today{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+.donate-button:hover{
+    background-color: khaki;
+}
+.donate-section:hover{
+    background-color: khaki;
+
+}
+.donate-container{
+    display: ;
+}
+.donation{
+    margin-bottom: 32px;
+}
+.donate-line{
+    padding:0px 80px;
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 16px;
+}
+.donate-lines{ 
+    text-align: center;
+    margin-top: 0px;
+    /* margin: 0px 180px; */
+
+}
+.donate-option{
+    
+    align-items: center;
+    display: flex;
+    margin-bottom: 32px;
+    margin-left: 500px;
+    gap: 24px;
+}
+.donate-card{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0E0E0E;
+    padding: 40px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+}
+.donate-card2{
+    background-color:#C6E4D6 ;
+}
+.donate-now button{
+    font-size: 18px;
+    font-weight: 600;
+    margin: 32px 850px;
+    padding:17px 34px;
+    background-color: #006A50;
+    color: #f5f5f5;
+    border-radius: 8px;
+    border: none;
+
+}
+
+
+
+.input-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+.input-center input{
+    height: 70px;
+    width: 800px;
+    text-align: center;
+    border: none;
+    outline: none;
+    color: #0E0E0E;
+    font-size: 20px;
+    font-weight: 400;
+
+
+}
+
+
+/* newsletter */
+.subscribe{
+    font-family: "Fira Sans", serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.news-body{
+    padding: 80px 100px;
+}
+
+.Newsletter{
+    font-family: "Fira Sans", serif;
+    margin: 80px 160px;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+}
+.newsletter-line{
+    text-align: center;
+    font-size: 16;
+    padding-left: 64px;
+    padding-right: 64px;
+    margin: 16px 329px;
+}
+.input{
+    margin: 24px 265px;
+    border-radius: 16px;
+    position: relative;
+    display: inline-block;
+
+}
+.sub-button{
+    font-family: "Fira Sans", serif;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #006A50;
+    color: #FFFFFF;
+    margin-left: 0;
+    position: relative;
+    border: none;
+    top:0;
+    right:0;
+    bottom:0;
+    height: 56px;
+    width: 150px;
+    border-radius: 0px 16px 16px 0px;
+    left: -5px;
+}
+.sub-button:hover{
+    background-color: #FFC239;
+}
+.input-email{
+    font-family: "Fira Sans", serif;
+    font-size: 16px;
+    padding-left: 40px;
+    border: none;
+    width: 600px;
+    height: 54px;
+    border-radius:16px 0px 0px 16px;
+    
+}
+.promise{
+    text-align: center;
+    font-size: 16px;
+    
+}
+.footer{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #FFFFFF;
+    padding-top:50px;
+    padding-bottom:50px ;
+}
