@@ -22,6 +22,7 @@ body{
 }
 .button-sign:hover{
     background-color: sandybrown;
+    cursor: pointer;
 }
 nav{
     display: flex;
@@ -58,6 +59,7 @@ h3{
 }
 .buttonstyle:hover{
     background-color: coral;
+    cursor: pointer;
 }
 .banner-style{
     padding-top: 146px;
@@ -161,6 +163,7 @@ h3{
 }
 .btn1:hover{
     background-color: sandybrown;
+    cursor: pointer;
 }
 .green-energy{
     margin-top: 32px;
@@ -181,6 +184,7 @@ h3{
 }
 .btn2:hover{
     background-color: sandybrown;
+    cursor: pointer;
 }
 .modern-infrastructure{
     margin-top: 32px;
