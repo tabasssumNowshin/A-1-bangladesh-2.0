@@ -154,7 +154,7 @@ h3{
     background-color: #5490F5;
     border-radius: 8px;
     font-size: 16px;
-    font-weight: 600px;
+    font-weight: 600;
     color: #FFFFFF;
     padding: 11px 20px;
     border: none;
@@ -174,7 +174,7 @@ h3{
     background-color: #09A15C;
     border-radius: 8px;
     font-size: 16px;
-    font-weight: 600px;
+    font-weight: 600;
     color: #FFFFFF;
     padding: 11px 20px;
     border: none;
@@ -195,7 +195,7 @@ h3{
     background-color: #FFC239;
     border-radius: 8px;
     font-size: 16px;
-    font-weight: 600px;
+    font-weight: 600;
     color: #FFFFFF;
     padding: 11px 20px;
     border: none;
@@ -221,7 +221,7 @@ h3{
     padding-left: 24px;
     padding-top: 12px;
     font-size: 20px;
-    font-weight: 600px;
+    font-weight: 600;
 }
 .identity{
     margin-top: 0px;
@@ -274,7 +274,7 @@ h3{
     padding: 13px 34px;
     background-color: #006A50;
     font-size: 18px;
-    font-weight: 600px;
+    font-weight: 600;
     color:#FFFFFF;
     border-radius: 8px;
     border: none;
