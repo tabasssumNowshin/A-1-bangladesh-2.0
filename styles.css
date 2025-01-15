@@ -202,6 +202,7 @@ h3{
 }
 .btn3:hover{
     background-color: sandybrown;
+    cursor: pointer;
 }
 
 
@@ -282,6 +283,7 @@ h3{
 }
 .recent-buttonstyle:hover{
     background-color: coral;
+    cursor: pointer;
 }
 /* donate */
 
@@ -328,6 +330,7 @@ h3{
 }
 .donate-card:hover{
     background-color: lightblue;
+    cursor: pointer;
 }
 .donate-card2{
     background-color:#C6E4D6 ;
@@ -345,6 +348,7 @@ h3{
 }
 .donate-now button:hover{
     background-color: khaki;
+    cursor: pointer;
 
 }
 .input-center{
@@ -399,6 +403,7 @@ h3{
     position: relative;
     display: inline-block;
 
+
 }
 .sub-button{
     font-family: "Fira Sans", serif;
@@ -419,6 +424,7 @@ h3{
 }
 .sub-button:hover{
     background-color: #FFC239;
+    cursor: pointer;
 }
 .input-email{
     font-family: "Fira Sans", serif;
@@ -428,6 +434,7 @@ h3{
     width: 600px;
     height: 54px;
     border-radius:16px 0px 0px 16px;
+    outline: none;
     
 }
 .promise{
