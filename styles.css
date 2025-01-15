@@ -51,7 +51,7 @@ h3{
     padding: 17px 34px;
     background-color: #006A50;
     font-size: 18px;
-    font-weight: 600px;
+    font-weight: 600;
     color:#FFFFFF;
     border-radius: 8px;
     border: none;
@@ -139,7 +139,7 @@ h3{
 }
 .header-size{
     font-size: 20px;
-    font-weight: 600px;
+    font-weight: 600;
 }
 .digital-transformation{
     margin-top: 32px;
